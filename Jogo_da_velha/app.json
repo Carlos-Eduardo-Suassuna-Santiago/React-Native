@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Jogo_da_velha",
+    "slug": "Jogo_da_velha",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
